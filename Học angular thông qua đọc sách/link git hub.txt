@@ -1,0 +1,3 @@
+https://github.com/PacktPublishing/Angular-2-Cookbook
+https://github.com/Farata/angular2typescript
+https://github.com/Apress/pro-angular-2ed
