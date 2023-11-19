@@ -1,0 +1,9 @@
+1. Sử dụng NVM để lưu trữ nhiều phiên bản của nodejs
+- nvm list: liệt kê các bản Node.js đã được cài và bản Node.js đang được sử dụng
+- nvm use 11.2.3:  chỉ định bản Node.js được sử dụng
+- nvm install 11.2.3: tải node phiên bản 11.2.3 vào máy
+- nvm uninstall 11.2.3: Gỡ node phiên bản 11.2.3 ra khỏi máy(nhớ mở quyền quản trị viên)
+2. Cách sử dụng phiên bản angular
+- npm uninstall -g @angular/cli (cách xóa angular ra khỏi node)
+. npm install -g @angular/cli@<phiên_bản_mong_muốn> (Cách thêm angular phiên bản mong muốn)
+- Xem phiên bản node thích hợp với angular: https://angular.io/guide/versions
